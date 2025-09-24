@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b466e206.css",
-    "main.js": "/static/js/main.e1b3a3af.js",
+    "main.css": "/static/css/main.17d83e49.css",
+    "main.js": "/static/js/main.88a5bf68.js",
     "static/media/remixicon.svg?t=1702216974873": "/static/media/remixicon.a893a09db081c33b6f37.svg",
     "static/media/portfolio-03.png": "/static/media/portfolio-03.e885b504539ac49aa9dd.png",
     "static/media/dwelli-2.png": "/static/media/dwelli-2.2155b23270673f7fdfbf.png",
@@ -47,17 +47,17 @@
     "static/media/github.svg": "/static/media/github.34624788da96b29418569696ff53a066.svg",
     "static/media/trello.svg": "/static/media/trello.1e5d3289e062828386620e2d4849e70e.svg",
     "static/media/js.svg": "/static/media/js.7348ff64ffd267b41637365424847f80.svg",
-    "index.html": "/index.html",
     "static/media/figma.svg": "/static/media/figma.d2bf8dbfb2cb5f4582bc7ad3175f6c67.svg",
     "static/media/sketch.svg": "/static/media/sketch.9ac5da676f332d5ee9e5a960a5703f26.svg",
+    "index.html": "/index.html",
     "static/media/css.svg": "/static/media/css.4d90d34da39b12c4095bd702ff996f1f.svg",
     "static/media/html.svg": "/static/media/html.2703e7691cfb7de956f2282089904e42.svg",
     "static/media/framer.svg": "/static/media/framer.43bc32c9fe7abf168d79757e8629f908.svg",
-    "main.b466e206.css.map": "/static/css/main.b466e206.css.map",
-    "main.e1b3a3af.js.map": "/static/js/main.e1b3a3af.js.map"
+    "main.17d83e49.css.map": "/static/css/main.17d83e49.css.map",
+    "main.88a5bf68.js.map": "/static/js/main.88a5bf68.js.map"
   },
   "entrypoints": [
-    "static/css/main.b466e206.css",
-    "static/js/main.e1b3a3af.js"
+    "static/css/main.17d83e49.css",
+    "static/js/main.88a5bf68.js"
   ]
 }
