@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b466e206.css",
-    "main.js": "/static/js/main.7d611b28.js",
+    "main.css": "/static/css/main.9ae118a1.css",
+    "main.js": "/static/js/main.2f62d7eb.js",
     "static/media/remixicon.svg?t=1702216974873": "/static/media/remixicon.a893a09db081c33b6f37.svg",
     "static/media/portfolio-03.png": "/static/media/portfolio-03.e885b504539ac49aa9dd.png",
     "static/media/dwelli-2.png": "/static/media/dwelli-2.2155b23270673f7fdfbf.png",
@@ -31,9 +31,11 @@
     "static/media/residential-2.png": "/static/media/residential-2.52bae71789aa43d7c0fc.png",
     "static/media/remixicon.woff2?t=1702216974873": "/static/media/remixicon.292547ce587667ba1294.woff2",
     "static/media/thecore-3.png": "/static/media/thecore-3.3156a3bafe6d7480562e.png",
+    "static/media/primeng.svg": "/static/media/primeng.07c0f99879e5989a31f860a0a3b1eb3a.svg",
     "static/media/portfolio-04.png": "/static/media/portfolio-04.5440dd62d106ba35e740.png",
     "static/media/cryptob-3.png": "/static/media/cryptob-3.db1cf6c5c4f355b657b7.png",
     "static/media/tfd-1.png": "/static/media/tfd-1.cb328ba4b988a6d6674a.png",
+    "static/media/tailwind.svg": "/static/media/tailwind.60372d32145b3949ed202a72cc7db50a.svg",
     "static/media/me.png": "/static/media/me.ea65103100410702fc92.png",
     "static/media/me2.png": "/static/media/me2.ea65103100410702fc92.png",
     "static/media/tfd-3.png": "/static/media/tfd-3.c647e8237267ea8acdd6.png",
@@ -50,18 +52,20 @@
     "static/media/midjourney.svg": "/static/media/midjourney.360af086e1259a5d400dd3d3ce5c7940.svg",
     "static/media/github.svg": "/static/media/github.34624788da96b29418569696ff53a066.svg",
     "static/media/trello.svg": "/static/media/trello.1e5d3289e062828386620e2d4849e70e.svg",
+    "static/media/react.svg": "/static/media/react.529dc916ad875c3e99f15642010d1764.svg",
     "static/media/js.svg": "/static/media/js.7348ff64ffd267b41637365424847f80.svg",
     "index.html": "/index.html",
     "static/media/figma.svg": "/static/media/figma.d2bf8dbfb2cb5f4582bc7ad3175f6c67.svg",
     "static/media/sketch.svg": "/static/media/sketch.9ac5da676f332d5ee9e5a960a5703f26.svg",
     "static/media/css.svg": "/static/media/css.4d90d34da39b12c4095bd702ff996f1f.svg",
     "static/media/html.svg": "/static/media/html.2703e7691cfb7de956f2282089904e42.svg",
+    "static/media/material.svg": "/static/media/material.e402dcf14f405707fb3a3f2a94ca311f.svg",
     "static/media/framer.svg": "/static/media/framer.43bc32c9fe7abf168d79757e8629f908.svg",
-    "main.b466e206.css.map": "/static/css/main.b466e206.css.map",
-    "main.7d611b28.js.map": "/static/js/main.7d611b28.js.map"
+    "main.9ae118a1.css.map": "/static/css/main.9ae118a1.css.map",
+    "main.2f62d7eb.js.map": "/static/js/main.2f62d7eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b466e206.css",
-    "static/js/main.7d611b28.js"
+    "static/css/main.9ae118a1.css",
+    "static/js/main.2f62d7eb.js"
   ]
 }
