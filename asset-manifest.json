@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f8a6a39.css",
-    "main.js": "/static/js/main.a1d02bd8.js",
+    "main.js": "/static/js/main.8bde6d6a.js",
     "static/media/remixicon.svg?t=1702216974873": "/static/media/remixicon.a893a09db081c33b6f37.svg",
     "static/media/portfolio-03.png": "/static/media/portfolio-03.e885b504539ac49aa9dd.png",
     "static/media/dwelli-2.png": "/static/media/dwelli-2.2155b23270673f7fdfbf.png",
@@ -64,10 +64,10 @@
     "static/media/material.svg": "/static/media/material.e402dcf14f405707fb3a3f2a94ca311f.svg",
     "static/media/framer.svg": "/static/media/framer.43bc32c9fe7abf168d79757e8629f908.svg",
     "main.1f8a6a39.css.map": "/static/css/main.1f8a6a39.css.map",
-    "main.a1d02bd8.js.map": "/static/js/main.a1d02bd8.js.map"
+    "main.8bde6d6a.js.map": "/static/js/main.8bde6d6a.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8a6a39.css",
-    "static/js/main.a1d02bd8.js"
+    "static/js/main.8bde6d6a.js"
   ]
 }
